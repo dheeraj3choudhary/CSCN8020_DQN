@@ -1,3 +1,5 @@
+# Deep Q-Network (DQN) Optimization
+
 We will implement **Deep Q-Learning (DQN)** to train an AI agent to play **Pong** using **OpenAI Gym’s PongDeterministic-v4 environment**. Since Pong has a continuous state space, traditional Q-learning is not feasible, so we use a **Deep Neural Network (DNN)** to approximate the Q-values.
 
 The key objectives of this assignment are:
