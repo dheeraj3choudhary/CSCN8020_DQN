@@ -85,9 +85,6 @@ Experiment 4 (Best Combo) showed a sharp improvement after episode 280, reaching
 
 From the table, the best results were achieved using **batch size = 16** and **target update = 3**.
 
-![image](https://github.com/user-attachments/assets/a84fc662-f2af-42aa-afd4-e08815342e24)
-
-
 ### 5. Justification for Best Configuration  
 The best-performing setup was **batch size = 16, target update = 3** due to:
 - Stable early learning.
